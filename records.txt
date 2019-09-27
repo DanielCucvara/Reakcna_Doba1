@@ -1,0 +1,12 @@
+0.487;fazula
+0.491;katka
+0.502;stefan
+0.519;milos
+0.522;smalko
+0.539;jozko
+0.544;milos
+0.547;danko
+0.577;daniel
+0.582;smrek
+0.796;uhorka
+0.839;marek
